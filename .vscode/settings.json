@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.rulers": [ 120 ],
+  "editor.trimAutoWhitespace": true,
+  "files.autoSave": "off",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[json]": {
+    "editor.quickSuggestions": { "strings": true },
+    "editor.formatOnSave": false
+  }
+}

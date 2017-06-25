@@ -1,0 +1,33 @@
+{
+  "name": "hey-yo",
+  "version": "0.1.0",
+  "description": "Flatfile blog and/or site tool",
+  "author": "TJ Eastmond <tj.eastmond@gmail.com> (http://tjeastmond.com)",
+  "homepage": "https://github.com/tjeastmond/hey-yo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjeastmond/hey-yo.git"
+  },
+  "keywords": [
+    "flatfile",
+    "flat file",
+    "blog",
+    "site",
+    "site generator",
+    "cms",
+    "site",
+    "website",
+    "static",
+    "fast"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.10.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
